@@ -1,2 +1,5 @@
 # python-crud-mongodb
- creating a CRUD API with python using FastAPI and MongoDB
+Repository containing a CRUD using python with FastAPI and Mongodb
+
+Start project:
+  uvicorn index:app --reload
